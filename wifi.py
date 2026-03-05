@@ -3,8 +3,8 @@ from playwright.async_api import async_playwright
 
 # ---------------- CONFIG ----------------
 REDIRECT_URL = "http://www.msftconnecttest.com/redirect"
-FALLBACK_USERNAME = "8368786617"
-FALLBACK_PASSWORD = "7fday7qh"
+FALLBACK_USERNAME = "<ENTER YOUR USERNAME HERE"
+FALLBACK_PASSWORD = "<ENTER YOUR PASSWORD HERE"
 AUTOFILL_WAIT = 3  # seconds to let browser autofill if passwords are saved
 # ----------------------------------------
 
